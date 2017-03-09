@@ -1,0 +1,60 @@
+1488784588943	geckodriver	INFO	Listening on 127.0.0.1:63468
+1488784590094	mozprofile::profile	INFO	Using profile path /var/folders/k0/4cm90dys3_l4zqdhjb_832mc0000gn/T/rust_mozprofile.FM27ulfaM0gO
+1488784590095	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488784590112	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63477
+1488784591062	Marionette	INFO	Listening on port 63477
+1488784597351	Marionette	WARN	Using deprecated data structure for setting timeouts
+1488784728814	geckodriver	INFO	Listening on 127.0.0.1:63547
+1488784729915	mozprofile::profile	INFO	Using profile path /var/folders/k0/4cm90dys3_l4zqdhjb_832mc0000gn/T/rust_mozprofile.Gjn42ciEk0Ga
+1488784729916	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488784729923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63556
+1488784730913	Marionette	INFO	Listening on port 63556
+1488784737124	Marionette	WARN	Using deprecated data structure for setting timeouts
+1488785252241	geckodriver	INFO	Listening on 127.0.0.1:63806
+1488785253351	mozprofile::profile	INFO	Using profile path /var/folders/k0/4cm90dys3_l4zqdhjb_832mc0000gn/T/rust_mozprofile.3CWrVaC40jDm
+1488785253352	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488785253358	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63815
+1488785254281	Marionette	INFO	Listening on port 63815
+1488785261071	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488785350247	geckodriver	INFO	Listening on 127.0.0.1:63894
+1488785351356	mozprofile::profile	INFO	Using profile path /var/folders/k0/4cm90dys3_l4zqdhjb_832mc0000gn/T/rust_mozprofile.K1PpORl4Qc4B
+1488785351360	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488785351367	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63903
+1488785352342	Marionette	INFO	Listening on port 63903
+1488785359274	Marionette	WARN	Using deprecated data structure for setting timeouts
+1488785392883	geckodriver	INFO	Listening on 127.0.0.1:63963
+1488785393982	mozprofile::profile	INFO	Using profile path /var/folders/k0/4cm90dys3_l4zqdhjb_832mc0000gn/T/rust_mozprofile.7FQJTrxJQjhE
+1488785393984	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488785393989	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63972
+1488785394832	Marionette	INFO	Listening on port 63972
+1488785400710	Marionette	WARN	Using deprecated data structure for setting timeouts
+1488785762405	geckodriver	INFO	Listening on 127.0.0.1:64133
+1488785763486	mozprofile::profile	INFO	Using profile path /var/folders/k0/4cm90dys3_l4zqdhjb_832mc0000gn/T/rust_mozprofile.CTb0T33qwsBS
+1488785763487	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488785763491	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64142
+1488785764244	Marionette	INFO	Listening on port 64142
+1488785770431	Marionette	WARN	Using deprecated data structure for setting timeouts
+1488785802936	geckodriver	INFO	Listening on 127.0.0.1:64195
+1488785804017	mozprofile::profile	INFO	Using profile path /var/folders/k0/4cm90dys3_l4zqdhjb_832mc0000gn/T/rust_mozprofile.nYLnru8zyhAO
+1488785804018	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488785804023	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64204
+1488785804742	Marionette	INFO	Listening on port 64204
+1488785810700	Marionette	WARN	Using deprecated data structure for setting timeouts
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488959037051	geckodriver	INFO	Listening on 127.0.0.1:58641
+1488959037161	mozprofile::profile	INFO	Using profile path /var/folders/k0/4cm90dys3_l4zqdhjb_832mc0000gn/T/rust_mozprofile.ayy0JZ88HMnW
+1488959037162	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488959037181	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58648
+1488959038219	Marionette	INFO	Listening on port 58648
+1488959044328	Marionette	WARN	Using deprecated data structure for setting timeouts
