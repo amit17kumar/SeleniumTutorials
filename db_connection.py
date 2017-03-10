@@ -1,7 +1,8 @@
+import pytest
 import string
 
 
-chars = "Thi is a tounge twister"
+chars = "Thi is a tongue twister"
 
 list1 = list(string.ascii_lowercase)
 final_list ={}
@@ -9,7 +10,7 @@ for list in list1:
     count = chars.lower().count(list)
     if count != 0:
         final_list[list] = count
-        #print("Count of:" + list + " in the string is " + str(count))
+        #print("Comment Updated")
 
     else:
        continue
